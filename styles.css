@@ -1,6 +1,9 @@
 /* Set background */
 html {
   background-color: grey;
+ background-image: url('https://www.csl-consulting.com/wp-content/uploads/2019/02/Harvard-Transformation-1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
 }
 
 /* styles for the body of the site */
